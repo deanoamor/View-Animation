@@ -1,0 +1,6 @@
+.gambar {
+    background-image: url(/images/cursor-01.png);
+    background-size: cover;
+    width: 380px;
+    height: 250px;
+}
